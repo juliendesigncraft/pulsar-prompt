@@ -1,3 +1,5 @@
+> **This repo has moved.** Everything about Pulsar now lives in one place: **[juliendesigncraft/pulsar](https://github.com/juliendesigncraft/pulsar)**. The prompts are now in [`prompts/`](https://github.com/juliendesigncraft/pulsar/tree/main/prompts). This repo is archived and won't be updated.
+
 # Pulsar, the prompt
 
 Pulsar is the app that lives in my Mac's menu bar and around the notch. I built all of it with Claude Code. This repo is the whole thing as prompts: one folder per part, each with the prompt I would give Claude Code today, the reference images, and the problems that cost me days, so they don't cost you the same.
